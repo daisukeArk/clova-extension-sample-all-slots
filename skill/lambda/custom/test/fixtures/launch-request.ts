@@ -1,0 +1,37 @@
+export const launchRequest = {
+  'version': '1.0',
+  'session': {
+    'sessionId': 'xxxxx',
+    'user': {
+      'userId': 'xxxxx',
+      'accessToken': 'xxxxx'
+    },
+    'new': true
+  },
+  'context': {
+    'System': {
+      'application': {
+        'applicationId': 'sample'
+      },
+      'user': {
+        'userId': 'xxxxx',
+        'accessToken': 'xxxxx'
+      },
+      'device': {
+        'deviceId': 'xxxxx',
+        'display': {
+          'size': 'l100',
+          'orientation': 'landscape',
+          'dpi': 96,
+          'contentLayer': {
+            'width': 640,
+            'height': 360
+          }
+        }
+      }
+    }
+  },
+  'request': {
+    'type': 'LaunchRequest'
+  }
+};
