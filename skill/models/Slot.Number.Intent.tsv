@@ -1,0 +1,7 @@
+[INTENT SLOT]
+number	CLOVA.NUMBER
+
+[INTENT EXPRESSION]
+数値で<number>1</number>
+数値で<number>10</number>
+数値で<number>100</number>

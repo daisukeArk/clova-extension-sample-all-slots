@@ -1,0 +1,8 @@
+[INTENT SLOT]
+datetime	CLOVA.DATETIME
+
+[INTENT EXPRESSION]
+日時で<datetime>明日</datetime>
+日時で<datetime>今日</datetime>
+日時で<datetime>１０時</datetime>
+日時で<datetime>午前9時</datetime>

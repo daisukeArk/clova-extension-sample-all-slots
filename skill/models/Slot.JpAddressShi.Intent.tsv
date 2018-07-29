@@ -1,0 +1,6 @@
+[INTENT SLOT]
+jpAddressShi	CLOVA.JP_ADDRESS_SHI
+
+[INTENT EXPRESSION]
+市町村で<jpAddressShi>札幌市</jpAddressShi>
+市町村で<jpAddressShi>小樽市</jpAddressShi>

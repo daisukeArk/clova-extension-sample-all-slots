@@ -1,0 +1,21 @@
+[INTENT SLOT]
+officialDate	CLOVA.OFFICIALDATE
+
+[INTENT EXPRESSION]
+公休日で<officialDate>成人の日</officialDate>
+公休日で<officialDate>元旦</officialDate>
+公休日で<officialDate>成人の日</officialDate>
+公休日で<officialDate>建国記念日</officialDate>
+公休日で<officialDate>春分の日</officialDate>
+公休日で<officialDate>昭和の日</officialDate>
+公休日で<officialDate>憲法記念日</officialDate>
+公休日で<officialDate>みどりの日</officialDate>
+公休日で<officialDate>こどもの日</officialDate>
+公休日で<officialDate>海の日</officialDate>
+公休日で<officialDate>山の日</officialDate>
+公休日で<officialDate>敬老の日</officialDate>
+公休日で<officialDate>秋分の日</officialDate>
+公休日で<officialDate>体育の日</officialDate>
+公休日で<officialDate>文化の日</officialDate>
+公休日で<officialDate>勤労感謝の日</officialDate>
+公休日で<officialDate>天皇誕生日</officialDate>

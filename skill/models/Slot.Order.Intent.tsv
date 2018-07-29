@@ -1,0 +1,8 @@
+[INTENT SLOT]
+order	CLOVA.ORDER
+
+[INTENT EXPRESSION]
+順序で<order>次</order>
+順序で<order>前</order>
+順序で<order>最後</order>
+順序で<order>最初</order>

@@ -1,0 +1,7 @@
+[INTENT SLOT]
+worldCity	CLOVA.WORLD_CITY
+
+[INTENT EXPRESSION]
+都市で<worldCity>東京</worldCity>
+都市で<worldCity>ワシントン</worldCity>
+都市で<worldCity>ローマ</worldCity>

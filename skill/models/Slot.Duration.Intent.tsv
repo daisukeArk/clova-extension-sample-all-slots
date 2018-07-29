@@ -1,0 +1,11 @@
+[INTENT SLOT]
+duration	CLOVA.DURATION
+
+[INTENT EXPRESSION]
+期間で<duration>1秒間</duration>を教えて
+期間で<duration>1分間</duration>を教えて
+期間で<duration>1時間</duration>を教えて
+期間で<duration>1日間</duration>を教えて
+期間で<duration>1週間</duration>を教えて
+期間で<duration>1ヶ月</duration>を教えて
+期間で<duration>1年間</duration>を教えて

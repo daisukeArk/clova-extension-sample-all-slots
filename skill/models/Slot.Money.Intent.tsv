@@ -1,0 +1,6 @@
+[INTENT SLOT]
+money	CLOVA.MONEY
+
+[INTENT EXPRESSION]
+金額で<money>4000円</money>
+金額で<money>1ドル</money>

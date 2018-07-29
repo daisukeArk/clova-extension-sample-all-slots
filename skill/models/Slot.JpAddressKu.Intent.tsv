@@ -1,0 +1,6 @@
+[INTENT SLOT]
+jpAddressKu	CLOVA.JP_ADDRESS_KU
+
+[INTENT EXPRESSION]
+行政区で<jpAddressKu>新宿区</jpAddressKu>
+行政区で<jpAddressKu>東区</jpAddressKu>

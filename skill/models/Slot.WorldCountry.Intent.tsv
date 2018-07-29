@@ -1,0 +1,7 @@
+[INTENT SLOT]
+worldCountry	CLOVA.WORLD_COUNTRY
+
+[INTENT EXPRESSION]
+国で<worldCountry>日本</worldCountry>
+国で<worldCountry>アメリカ</worldCountry>
+国で<worldCountry>カナダ</worldCountry>

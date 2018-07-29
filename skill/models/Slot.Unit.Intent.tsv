@@ -1,0 +1,7 @@
+[INTENT SLOT]
+unit	CLOVA.UNIT
+
+[INTENT EXPRESSION]
+通貨単位で<unit>113坪</unit>
+通貨単位で<unit>100メガ</unit>
+通貨単位で<unit>25マイル</unit>

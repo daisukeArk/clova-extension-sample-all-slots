@@ -1,0 +1,9 @@
+[INTENT SLOT]
+relativeTime	CLOVA.RELATIVETIME
+
+[INTENT EXPRESSION]
+あいまいで<relativeTime>後で</relativeTime>
+あいまいで<relativeTime>これから</relativeTime>
+あいまいで<relativeTime>しばらく後</relativeTime>
+あいまいで<relativeTime>今</relativeTime>
+あいまいで<relativeTime>さっき</relativeTime>

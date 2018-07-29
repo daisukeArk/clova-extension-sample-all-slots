@@ -1,0 +1,7 @@
+[INTENT SLOT]
+currency	CLOVA.CURRENCY
+
+[INTENT EXPRESSION]
+通貨単位で<currency>円</currency>
+通貨単位で<currency>ドル</currency>
+通貨単位で<currency>ユーロ</currency>
